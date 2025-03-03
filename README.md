@@ -2,7 +2,27 @@
 
 ###
 
-<h3 align="left">- Software Engineer at Santander Digital Services 💼<br>  - Backend development using Java and Spring Boot 🖥️<br>  - Experience in microservices architecture 🏗️<br>  - API integration with REDSYS for secure card transactions 💳<br><br>- Skills & Technologies 🛠️<br>  - Java, Spring Boot, Kotlin, Flutter 💡<br>  - Astro, Next.js, Angular, React 🌐<br>  - Databases: MongoDB, PostgreSQL 🗄️<br>  - Version control and CI/CD: GitHub, Jenkins, GitHub Actions 🚀<br><br>- Education & Certifications 🎓<br>  - Bachelor's Degree in Computer Science (Universitat Oberta de Catalunya) 📘<br>  - Advanced Diploma in Web Development (Cesur) 🌟<br>  - Blockchain Fundamentals Certification (Chainlink Labs) 🔗<br><br>- Professional Experience 👨‍💻<br>  - Junior Software Engineer at Santander Digital Services 💼<br>  - Software Developer at Carrefour España 🏢<br><br>- Personal Projects ⚙️<br>  - Developed a personal portfolio using Next.js, React, and Tailwind CSS 🖥️<br>  - Created CrowdSnap, an open-source social network for group photo sharing using Flutter and Firebase 📸<br><br>- Interests & Hobbies 🌟<br>  - Reading 📚, learning about science 🔬, playing video games 🎮, and exercising 🏋️<br>  - Passionate about continuous learning 📖 and exploring new technologies 🌐</h3>
+<h3 align="left">
+🚀 Currently Software Engineer at Santander Digital Services<br><br>
+
+💻 Tech Stack:<br>
+- Backend: Java, Spring Boot, Microservices<br>
+- Frontend: React, Next.js, Flutter<br>
+- Databases: MongoDB, PostgreSQL<br>
+- Tools: Git, GitHub Actions, Jenkins<br><br>
+
+📚 Background:<br>
+- Computer Science Degree (UOC)<br>
+- Advanced Diploma in Web Development with specialization in blockchain (Cesur) 🌟<br>
+- Advanced Diploma in Multiplatform Applications Development (Cesur)<br>
+- Experience in fintech and retail sectors<br><br>
+
+🔨 Notable Projects:<br>
+- Personal portfolio with Next.js & React<br>
+- CrowdSnap: Social network app (Flutter/Firebase)<br><br>
+
+🌱 Always learning and exploring new technologies
+</h3>
 
 ###
 
