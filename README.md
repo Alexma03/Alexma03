@@ -80,6 +80,10 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/alexma03/alexma03/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Alexma03/Alexma03/40410063cd90d826d13d4da781612af12a7dcb7d/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Alexma03/Alexma03/40410063cd90d826d13d4da781612af12a7dcb7d/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Alexma03/Alexma03/40410063cd90d826d13d4da781612af12a7dcb7d/github-snake.svg" />
+</picture>
 
 ###
