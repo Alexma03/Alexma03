@@ -13,7 +13,7 @@
 
 📚 Background:<br>
 - Computer Science Degree (UOC)<br>
-- Advanced Diploma in Web Development with specialization in blockchain (Cesur) 🌟<br>
+- Advanced Diploma in Web Development with specialization in blockchain (Cesur)<br>
 - Advanced Diploma in Multiplatform Applications Development (Cesur)<br>
 - Experience in fintech and retail sectors<br><br>
 
